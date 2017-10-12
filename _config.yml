@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Winston Wang"
-  avatar           : "Personal.png"
-  bio              : "I'm currently a PhD student in computational imaging and photography"
+  name             : "Zihao (Winston) Wang"
+  avatar           : "https://winswang.github.io/Personal.png"
+  bio              : "PhD student in computational imaging and photography"
   location         : "Evanston, IL"
   employer         : "Northwestern University"
   googlescholar    : "https://scholar.google.com/citations?user=9t57Wj4AAAAJ&hl=en"
