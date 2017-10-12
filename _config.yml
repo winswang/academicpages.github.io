@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihao (Winston) Wang"
+title                    : "Winston | Personal website"
 title_separator          : "-"
-name                     : &name "Winston"
+name                     : &name "Zihao (Winston) Wang"
 description              : &description "personal description"
 url                      : https://winswang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &zwinswang
 facebook:
   username               :
   app_id                 :
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Winston Wang"
+  avatar           : "Personal.png"
+  bio              : "I'm currently a PhD student in computational imaging and photography"
+  location         : "Evanston, IL"
+  employer         : "Northwestern University"
+  googlescholar    : "https://scholar.google.com/citations?user=9t57Wj4AAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "winswang"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-4162-7849"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "zwinswang"
   vine             :
   weibo            :
   xing             :
