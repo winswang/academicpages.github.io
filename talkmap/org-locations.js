@@ -13,4 +13,5 @@ var addressPoints = [
     "Anaheim CA, USA",
     33.8341966,
     -117.9855787
+  ]
   ];
