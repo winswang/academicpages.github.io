@@ -2,14 +2,15 @@
 title: "Compressive holographic video"
 collection: publications
 permalink: /publication/comp_holo_video
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Compressed sensing has been discussed separately in spatial and temporal domains. Compressive holography has been introduced as a method that allows 3D tomographic reconstruction at different depths from a single 2D image. Coded exposure is a temporal compressed sensing method for high speed video acquisition. In this work, we combine compressive holography and coded exposure techniques and extend the discussion to 4D reconstruction in space and time from one coded captured image. In our prototype, digital in-line holography was used for imaging macroscopic, fast moving objects. The pixel-wise temporal modulation was implemented by a digital micromirror device. In this paper we demonstrate 10× temporal super resolution with multiple depths recovery from a single image. Two examples are presented for the purpose of recording subtle vibrations and tracking small particles within 5 ms.'
+date: 2017-01-04
+venue: 'Optics Express'
+paperurl: 'https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-1-250'
+citation: 'Zihao Wang, Leonidas Spinoulas, Kuan He, Lei Tian, Oliver Cossairt, Aggelos K. Katsaggelos, and Huaijin Chen, "Compressive holographic video," 
+ <i>Optics Express)</i> 25, 250-262 (2017).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-1-250)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Zihao Wang, Leonidas Spinoulas, Kuan He, Lei Tian, Oliver Cossairt, Aggelos K. Katsaggelos, and Huaijin Chen, "Compressive holographic video," 
+ <i>Optics Express)</i> 25, 250-262 (2017).
