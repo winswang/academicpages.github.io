@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[[pdf]](http://winswang.github.io/files/cv-2.pdf)
 
 Education
 ======
