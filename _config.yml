@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Winston | Personal website"
+title                    : "Winston | Homepage"
 title_separator          : "-"
 name                     : &name "Zihao (Winston) Wang"
 description              : &description "personal description"
