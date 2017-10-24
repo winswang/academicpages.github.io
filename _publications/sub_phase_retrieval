@@ -8,7 +8,7 @@ venue: 'Biomedical Optics Express'
 paperurl: 
 citation: Donghun Ryu, Zihao Wang, Kuan He, Guoan Zheng, Roarke Horstmeyer, and Oliver Cossairt, "Subsampled phase retrieval for temporal resolution enhancement in lensless on-chip holographic video," <i>Biomedical Optics Express</i> 8, 1981-1995 (2017)
 ---
-<br/><img src='/images/on-chip gallery.jpg'>
+<img src='/images/on-chip gallery.jpg'><br/>
 On-chip holographic video is a convenient way to monitor biological samples simultaneously at high spatial resolution and over a wide field-of-view. However, due to the limited readout rate of digital detector arrays, one often faces a tradeoff between the per-frame pixel count and frame rate of the captured video. In this report, we propose a subsampled phase retrieval (SPR) algorithm to overcome the spatial-temporal trade-off in holographic video. Compared to traditional phase retrieval approaches, our SPR algorithm uses over an order of magnitude less pixel measurements while maintaining suitable reconstruction quality. We use an on-chip holographic video setup with pixel sub-sampling to experimentally demonstrate a factor of 5.5 increase in sensor frame rate while monitoring the in vivo movement of Peranema microorganisms.
 [[Paper link]](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-8-3-1981)
 [[Project page]](http://compphotolab.northwestern.edu/project/lov/)
