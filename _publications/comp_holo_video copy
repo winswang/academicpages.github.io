@@ -1,13 +1,12 @@
 ---
-title: "Compressive holographic video"
+title: "Looking into special surface effects: diffuse coarseness and glint impression"
 collection: refereed journals
-permalink: /publication/comp_holo_video
+permalink: /publication/glint_coarseness
 excerpt: 
-date: 2017-01-04
-venue: Optics Express
+date: 2016-03-16
+venue: Coloration Technology
 paperurl: 
-citation: Zihao Wang, Leonidas Spinoulas, Kuan He, Lei Tian, Oliver Cossairt, Aggelos K. Katsaggelos, and Huaijin Chen, "Compressive holographic video," 
- <i>Optics Express</i> 25, 250-262 (2017).
+citation: Zihao W. Wang, and Ming R. Luo, "Looking into special surface effects: diffuse coarseness and glint impression," <i>Coloration Technology</i> 132, 153-161 (2017).
 ---
 <img src='/images/chv.jpg'><br/>
 In this work, we combine compressive holography and coded exposure techniques and extend the discussion to 4D reconstruction in space and time from one coded captured image. In our prototype, digital in-line holography was used for imaging macroscopic, fast moving objects. The pixel-wise temporal modulation was implemented by a digital micromirror device. In this paper we demonstrate 10× temporal super resolution with multiple depths recovery from a single image. Two examples are presented for the purpose of recording subtle vibrations and tracking small particles within 5 ms. 
