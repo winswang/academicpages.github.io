@@ -1,10 +1,11 @@
 ---
-title: "High-speed holographic imaging using compressed sensing and phase retrieval"
+title: "Dictionary-based phase retrieval for space-time super resolution using lens-free on-chip holographic video"
 collection: talks
 type: “oral presentation“
-permalink: /talks/2017-spie
-venue: “SPIE Defense and Commercial Sensing”
-date: 2017-04-09
-location: “Anaheim, California”
+permalink: /talks/2017-cosi
+venue: “OSA Computational Optical Sensing and Imaging (COSI)”
+date: 2017-06-26
+location: "Jeju Island, South Korea"
 ---
-[[Archived here]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10222/1/High-speed-holographic-imaging-using-compressed-sensing-and-phase-retrieval/10.1117/12.2262737.short?SSO=1)
+We propose a dictionary-based phase retrieval approach for monitoring in vivo biological samples based on lens-free on-chip holographic video. Our results present a temporal increase of 9× with 4×4 sub-sampling. <br/>
+[[Summary]](https://pdfs.semanticscholar.org/b6fb/034b8b8ac40f9819dc8919dce6439c232ff5.pdf) [[Slides]](https://www.dropbox.com/s/rnxwrwym76yfgm1/COSI2017.pptx?dl=0)
