@@ -2,12 +2,11 @@
 title: "Gloss evaluation from soft and hard metrologies"
 collection: refereed journals
 permalink:
-excerpt: <img src='/images/gloss_fig.jpg'>
+excerpt: <img src='/images/gloss_fig.jpg'><br/>[[Paper manuscript]](https://www.researchgate.net/profile/Zihao_Wang13/publication/319404224_Gloss_evaluation_from_soft_and_hard_metrologies/links/59ae1d74a6fdcce55a4175d7/Gloss-evaluation-from-soft-and-hard-metrologies.pdf)
 date: 2017-08-31
 venue: 'JOSA A'
 paperurl: 
 citation: Zihao Wang, Lihao Xu, Yu Hu, Fereshteh Mirjalili, and Ming Ronnier Luo, "Gloss evaluation from soft and hard metrologies," <i>Journal of the Optical Society of America A</i> 34, 1679-1686 (2017)
 ---
 <img src='/images/gloss_fig.jpg'><br/>
-Recent advances in bidirectional reflectance distribution function (BRDF) acquisitions have provided a novel approach for appearance measurement and analysis. In particular, since gloss appearance is dependent on the directional reflective properties of surfaces, it is reasonable to leverage the BRDF for gloss evaluation. In this paper, we investigate gloss appearance from both soft metrology and hard metrology. A psychophysical experiment was conducted for the gloss assessment of 47 neutral-color samples. In the evaluation of gloss perception from gloss meter measurements, we report several ambiguous correspondences in the medium gloss range. In order to analyze and explain this phenomenon, the BRDF was acquired and examined using a commercial BRDF measuring device. With an improved correlation-to-visual perception, we propose a two-dimensional gloss model by combining a parameter, the standard deviation of the specular lobe, from Ward’s BRDF model with measured gloss values.<br/>
-[[Paper manuscript]](https://www.researchgate.net/profile/Zihao_Wang13/publication/319404224_Gloss_evaluation_from_soft_and_hard_metrologies/links/59ae1d74a6fdcce55a4175d7/Gloss-evaluation-from-soft-and-hard-metrologies.pdf)
+Recent advances in bidirectional reflectance distribution function (BRDF) acquisitions have provided a novel approach for appearance measurement and analysis. In particular, since gloss appearance is dependent on the directional reflective properties of surfaces, it is reasonable to leverage the BRDF for gloss evaluation. In this paper, we investigate gloss appearance from both soft metrology and hard metrology. A psychophysical experiment was conducted for the gloss assessment of 47 neutral-color samples. In the evaluation of gloss perception from gloss meter measurements, we report several ambiguous correspondences in the medium gloss range. In order to analyze and explain this phenomenon, the BRDF was acquired and examined using a commercial BRDF measuring device. With an improved correlation-to-visual perception, we propose a two-dimensional gloss model by combining a parameter, the standard deviation of the specular lobe, from Ward’s BRDF model with measured gloss values.
