@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there,
 
-My name is Wang, Zihao (王子豪). Winston is my preferred name in the US and English-speaking world. I'm from [Anshan](https://www.google.com/maps/place/Anshan,+Liaoning,+China/@41.1163422,122.866278,11z/data=!3m1!4b1!4m5!3m4!1s0x5e28b5d159b26c5d:0x7c815864a47d5bd9!8m2!3d41.108647!4d122.994329), northwestern China.
+My name is Wang, Zihao (王子豪). Winston is my preferred name in the US and English-speaking world. I'm from [Anshan](https://www.google.com/maps/place/Anshan,+Liaoning,+China/@41.1163422,122.866278,11z/data=!3m1!4b1!4m5!3m4!1s0x5e28b5d159b26c5d:0x7c815864a47d5bd9!8m2!3d41.108647!4d122.994329), northeastern China.
 
 Current state
 ======
