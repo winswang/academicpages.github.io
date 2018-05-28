@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/chv.jpg'>"
+title: "Black Coffee"
+excerpt: "A theatre <br/><img src='/images/BCposter.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+  Hercule Poirot and his friend Arthur Hastings are called upon a request from a famous physicist Sir Claud Amory (North of London). During dinner, Lucia Amory, wife of Claud’s son Richard Amory, does not feel well and quit dinner. Claud’s niece Barbara Amory and his sister Miss Amory are there with her. When Barbara is looking for pills for Lucia, she finds a medicine box, in which Dr. Carelli points out poison.
+  While people are having coffee after dinner, Claud locks everyone in his library because his new formula for a powerful explosive has been stolen. He turns off lights to let the thief give the formula back without being noticed by anyone else. However, when lights are turned on, Claud is found dead…
+
+Interested? Check on Facebook "SIGTheater" page for a playback of the live video. 
