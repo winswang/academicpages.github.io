@@ -7,7 +7,7 @@ Hercule Poirot and his friend Arthur Hastings are called upon a request from a f
 
 While people are having coffee after dinner, Claud locks everyone in his library because his new formula for a powerful explosive has been stolen. He turns off lights to let the thief give the formula back without being noticed by anyone else. However, when lights are turned on, Claud is found dead…
 
-<img src='/images/BCprogram.png' width='720'><br/>
+<img src='/images/BCprogram.png' width='800'><br/>
 
 Interested? Check our Facebook [SIGTheater](https://www.facebook.com/SIGTheater-169997056926436/) page for a playback of the live video. 
 
