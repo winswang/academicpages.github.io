@@ -11,4 +11,4 @@ While people are having coffee after dinner, Claud locks everyone in his library
 
 Interested? Check our Facebook [SIGTheater](https://www.facebook.com/SIGTheater-169997056926436/) page for a playback of the live video. 
 
-SIGTheater (Special Interest Group in Theater) is a student theatre club at Northwestern University. It was founded in December 2015. 
+SIGTheater (Special Interest Group in Theater) is a student theatre club at Northwestern University. It was founded, by me :), in December 2015. 
