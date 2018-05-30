@@ -1,6 +1,6 @@
 ---
 title: "Black Coffee"
-excerpt: "An immersive theatre produced by [SIGTheater](https://www.northwestern-sigtheater.com). <br/><img src='/images/BCposter.png' width='500'>"
+excerpt: "An immersive theatre in Chinese produced by [SIGTheater](https://www.northwestern-sigtheater.com). <br/><img src='/images/BCposter.png' width='500'>"
 collection: portfolio
 ---
 Hercule Poirot and his friend Arthur Hastings are called upon a request from a famous physicist Sir Claud Amory (North of London). During dinner, Lucia Amory, wife of Claud’s son Richard Amory, does not feel well and quit dinner. Claud’s niece Barbara Amory and his sister Miss Amory are there with her. When Barbara is looking for pills for Lucia, she finds a medicine box, in which Dr. Carelli points out poison.
