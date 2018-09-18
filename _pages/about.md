@@ -16,7 +16,7 @@ Currently
 ======
 I am a PhD student (2015-present, qualified in 2018 Spring) in Computer Science at Northwestern University. I do research in computational photography and video. My advisor is [Dr. Ollie Cossairt](http://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/).
 
-Biosketch
+Apprenticeship
 ======
 I was a research intern at Microsoft Research, Redmond (Jun-Aug 2018). 
 
