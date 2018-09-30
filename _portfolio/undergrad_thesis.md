@@ -4,4 +4,4 @@ excerpt: "Scattering effects simulation for Luneburg lens based on Hamiltonian r
 collection: portfolio
 ---
 
-[[pdf]](http://winswang.github.io/files/winston_thesis_zju.pdf)
+My undergrad thesis (in Chinese) can be found here:[[pdf]](http://winswang.github.io/files/winston_thesis_zju.pdf)
