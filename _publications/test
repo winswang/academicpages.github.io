@@ -1,14 +1,14 @@
 ---
-title: "Computational multifocal microscopy"
+title: "Privacy-Preserving Action Recognition using Coded Aperture Videos"
 collection: refereed journals
 permalink:
-excerpt: <br/>[[Paper link]](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-9-12-6477)[[project page]](http://compphotolab.northwestern.edu/project/computational-multifocal-microscopy/)
-date: 2018-11-28
-venue: Biomedical Optics Express
+excerpt: <br/>[[Paper link]](https://arxiv.org/abs/1902.09085)
+date: 2019-02-25
+venue: ArXiv
 paperurl: 
 citation: 
 ---
-Abstract: Despite recent advances, high performance single-shot 3D microscopy remains an elusive task. By introducing designed diffractive optical elements (DOEs), one is capable of converting a microscope into a 3D “kaleidoscope,” in which case the snapshot image consists of an array of tiles and each tile focuses on different depths. However, the acquired multifocal microscopic (MFM) image suffers from multiple sources of degradation, which prevents MFM from further applications. We propose a unifying computational framework which simplifies the imaging system and achieves 3D reconstruction via computation. Our optical configuration omits optical elements for correcting chromatic aberrations and redesigns the multifocal grating to enlarge the tracking area. Our proposed setup features only one single grating in addition to a regular microscope. The aberration correction, along with Poisson and background denoising, are incorporated in our deconvolution-based fully-automated algorithm, which requires no empirical parameter-tuning. In experiments, we achieve spatial resolutions of 0.35um (lateral) and 0.5um (axial), which are comparable to the resolution that can be achieved with confocal deconvolution microscopy. We demonstrate a 3D video of moving bacteria recorded at 25 frames per second using our proposed computational multifocal microscopy technique.<br/><br/>
+Abstract: The risk of unauthorized remote access of streaming video from networked cameras underlines the need for stronger privacy safeguards. Towards this end, we simulate a lens-free coded aperture (CA) camera as an appearance encoder, i.e., the first layer of privacy protection. Our goal is human action recognition from coded aperture videos for which the coded aperture mask is unknown and does not require reconstruction. We insert a second layer of privacy protection by using non-invertible motion features based on phase correlation and log-polar transformation. Phase correlation encodes translation while the log polar transformation encodes in-plane rotation and scaling. We show the key property of the translation features being mask-invariant. This property allows us to simplify the training of classifiers by removing reliance on a specific mask design. Results based on a subset of the UCF and NTU datasets show the feasibility of our system. 
 
-Citation: Kuan He, Zihao Wang, Xiang Huang, Xiaolei Wang, Seunghwan Yoo, Pablo Ruiz, Itay Gdor, Alan Selewa, Nicola J. Ferrier, Norbert Scherer, Mark Hereld, Aggelos K. Katsaggelos, and Oliver Cossairt, "Computational multifocal microscopy," <i>Biomedical Optics Express</i> 9, 6477-6496 (2018)
+Citation: Zihao Wang, Vibhav Vineet, Francesco Pittaluga, Sudipta Sinha, Oliver Cossairt, Sing Bing Kang, "Privacy-Preserving Action Recognition using Coded Aperture Videos," <i>ArXiv preprints</i> 1902.09085 (2019)
 
