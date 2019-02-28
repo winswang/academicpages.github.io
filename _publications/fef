@@ -2,13 +2,13 @@
 title: "Event-driven video frame synthesis"
 collection: refereed journals
 permalink:
-excerpt: <img src='/images/fef-overview.jpg' width='500'><br/>[[Paper link]](http://arxiv.org/abs/1902.09680)
+excerpt: <img src='/images/fef_overview.jpg' width='500'><br/>[[Paper link]](http://arxiv.org/abs/1902.09680)
 date: 2019-02-26
 venue: ArXiv
 paperurl: 
 citation: 
 ---
-<img src='/images/privacy-overview.jpg' width='600'><br/>
+<img src='/images/fef_overview.jpg' width='600'><br/>
 Abstract: Video frame synthesis is an active computer vision problem which has applications in video compression, streaming, editing, and understanding. In
 this work, we present a computational high speed video synthesis framework. Our framework takes as inputs two types of data streams: an intensity frame stream
 and a neuromorphic event stream, which consists of asynchronous bipolar "events" which encode brightness variations over time at over 1000 fps. We
