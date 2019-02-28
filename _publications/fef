@@ -17,5 +17,5 @@ reconstruction (PBR) process and a residual denoising process. We use a differen
 stochastic gradient descent optimization using automatic differentiation. Residual errors in PBR reconstruction are further reduced by training a
 residual denoiser to remove reconstruction artifacts. The video output from our reconstruction algorithm has both high frame rate and well-recovered spatial
 features. Our framework is capable of handling challenging scenes that include fast motion and strong occlusions.<br/>
-Citation: Zihao Wang, Vibhav Vineet, Francesco Pittaluga, Sudipta Sinha, Oliver Cossairt, Sing Bing Kang, "Privacy-Preserving Action Recognition using Coded Aperture Videos," <i>ArXiv preprints</i> 1902.09085 (2019)
+Citation: Zihao Wang, Weixin Jiang, Aggelos Katsaggelos, Oliver Cossairt, "Event-driven video frame synthesis," <i>ArXiv preprints</i> 1902.09680 (2019)
 
