@@ -2,8 +2,8 @@
 title: "Privacy-preserving action recognition using coded aperture videos"
 collection: refereed journals
 permalink:
-excerpt: <img src='/images/privacy-overview.jpg' width='500'><br/>[[Paper link]](https://arxiv.org/abs/1902.09085)
-date: 2019-02-25
+excerpt: <img src='/images/privacy-overview.jpg' width='500'><br/>[[Paper link]](https://arxiv.org/abs/1902.09085)[[Workshop link]](https://cvcops19.cispa.saarland/)
+date: 2019-06-16
 venue: CV-COPS (CVPR Workshop)
 paperurl: 
 citation: 
@@ -12,5 +12,5 @@ citation:
 Abstract: The risk of unauthorized remote access of streaming video from networked cameras underlines the need for stronger privacy safeguards. We propose a lens-free coded aperture camera system for human action recognition that is privacy-preserving. While coded aperture systems exist, we believe ours is the first system designed for action recognition without the need for image restoration as an intermediate step. Action recognition is done using a deep network that takes in as input, non-invertible motion features between pairs of frames computed using phase correlation and log-polar transformation. Phase correlation encodes translation while the log polar transformation encodes in-plane rotation and scaling. We show that the translation features are independent of the coded aperture design, as long as its spectral response within the bandwidth has no zeros. Stacking motion features computed on frames at multiple different strides in the video can improve accuracy. Preliminary results on simulated data based on a subset of the UCF and NTU datasets are promising. We also describe our prototype lens-free coded aperture camera system, and results for real captured videos are mixed. <br/>
 
 Citation: Zihao W. Wang, Vibhav Vineet, Francesco Pittaluga, Sudipta Sinha, Oliver Cossairt, Sing Bing Kang, "Privacy-Preserving Action Recognition using Coded Aperture Videos," <i>The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security
-(CV-COPS 2019), in conjunction with the 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition </i> (2019)
+(CV-COPS 2019), in conjunction with the 2019 IEEE Conference on Computer Vision and Pattern Recognition</i> (2019)
 
