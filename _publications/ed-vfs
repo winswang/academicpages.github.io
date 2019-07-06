@@ -1,0 +1,14 @@
+---
+title: "Event-driven video frame synthesis"
+collection: refereed journals
+permalink:
+excerpt: <img src='/images/fef_overview.jpg' width='500'><br/>[[Paper]](http://arxiv.org/abs/1902.09680)[[supp (7.4M)]](http://winswang.github.io/files/ED-VFS-supp.zip)[[code]](https://github.com/winswang/int-event-fusion/tree/win10)
+date: 2019-02-26
+venue: arXiv
+paperurl: 
+citation: 
+---
+<img src='/images/fef_overview.jpg' width='700'><br/>
+Abstract: Temporal Video Frame Synthesis (TVFS) aims at synthesizing novel frames at timestamps different from existing frames, which has wide applications in video codec, editing and analysis. In this paper, we propose a high framerate TVFS framework which takes hybrid input data from a low-speed frame-based sensor and a high-speed event-based sensor. Compared to frame-based sensors, event-based sensors report brightness changes at very high speed, which may well provide useful spatio-temoral information for high framerate TVFS. In our framework, we first introduce a differentiable forward model to approximate the physical sensing process, fusing the two different modes of data as well as unifying a variety of TVFS tasks, i.e., interpolation, prediction and motion deblur. We leverage autodifferentiation which propagates the gradients of a loss defined on the measured data back to the latent high framerate video. We show results with better performance compared to state-of-the-art. Second, we develop a deep learning-based strategy to enhance the results from the first step, which we refer as a residual "denoising" process. Our trained "denoiser" is beyond Gaussian denoising and shows properties such as contrast enhancement and motion awareness. We show that our framework is capable of handling challenging scenes including both fast motion and strong occlusions.<br/>
+Citation: Zihao W. Wang, Weixin Jiang, Kuan He, Boxin Shi, Aggelos Katsaggelos, Oliver Cossairt, "Event-driven video frame synthesis," <i>arXiv preprints</i> 1902.09680 (2019)
+
