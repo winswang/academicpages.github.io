@@ -2,9 +2,9 @@
 title: "Event-driven video frame synthesis"
 collection: refereed conference
 permalink:
-excerpt: <img src='/images/fef_overview.jpg' width='500'><br/>[[Paper]](http://arxiv.org/abs/1902.09680)[[supp (7.4M)]](http://winswang.github.io/files/ED-VFS-supp.zip)[[code]](https://github.com/winswang/int-event-fusion/tree/win10)
+excerpt: <img src='/images/fef_overview.jpg' width='500'><br/>[[Paper]](http://arxiv.org/abs/1902.09680)[[Workshop info]](https://pbdl2019.github.io/index.html)[[supp (7.4M)]](http://winswang.github.io/files/ED-VFS-supp.zip)[[code]](https://github.com/winswang/int-event-fusion/tree/win10)
 date: 2019-11-02
-venue: PBDL2019
+venue: PBDL (ICCV Workshop)
 paperurl: 
 citation: 
 ---
