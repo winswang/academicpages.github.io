@@ -2,7 +2,7 @@
 title: "Joint filtering of intensity images and neuromorphic events<br/>for high-resolution noise-robust imaging"
 collection: refereed conference
 permalink:
-excerpt: <img src='/images/gef-teaser.jpg' width='500'><br/>[[Project page]](https://sites.google.com/view/guided-event-filtering)
+excerpt: <img src='/images/gef-teaser.jpg' width='500'><br/>[[video (3min)]](https://www.youtube.com/watch?v=JpJFBZ97KX0)[[Project page]](https://sites.google.com/view/guided-event-filtering)[[paper (1.9MB)]](https://winswang.github.io/files/cvpr2020-gef-compressed.pdf)[[supp (2.1MB)]](https://winswang.github.io/files/cvpr2020-gef-supp-compressed.pdf)
 date: 2020-06-14
 venue: CVPR
 paperurl: 
@@ -10,5 +10,6 @@ citation:
 ---
 <img src='/images/gef-teaser.jpg' width='700'><br/>
 Abstract: We present a novel computational imaging system with high resolution and low noise. Our system consists of a traditional video camera which captures high-resolution intensity images, and an event camera which encodes high-speed motion as a stream of asynchronous binary events. To process the hybrid input, we propose a unifying framework that ﬁrst bridges the two sensing modalities via a noise-robust motion compensation model, and then performs joint image ﬁltering. The ﬁltered output represents the temporal gradient of the captured space-time volume, which can be viewed as motion-compensated event frames with high resolution and low noise. Therefore, the output can be widely applied to many existing event-based algorithms that are highly dependent on spatial resolution and noise robustness. In experimental results performed on both publicly available datasets as well as our contributing RGB-DAVIS dataset, we show systematic performance improvement in applications such as high frame-rate video synthesis, feature/corner detection and tracking, as well as high dynamic range image reconstruction.<br/>
+[Video intro](https://www.youtube.com/watch?v=JpJFBZ97KX0) <br/>
 Citation: Zihao W. Wang, Peiqi Duan, Oliver Cossairt, Aggelos Katsaggelos, Tiejun Huang, Boxin Shi, "Joint Filtering of Intensity Images and Neuromorphic Events for High-Resolution Noise-Robust Imaging," <i>the IEEE Conference on Computer Vision and Pattern Recognition</i> Seattle, June (2020)
 
