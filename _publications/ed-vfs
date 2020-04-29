@@ -2,7 +2,7 @@
 title: "Event-driven video frame synthesis"
 collection: refereed conference
 permalink:
-excerpt: <img src='/images/fef_overview.jpg' width='500'><br/>[[Paper]](http://openaccess.thecvf.com/content_ICCVW_2019/html/PBDL/Wang_Event-Driven_Video_Frame_Synthesis_ICCVW_2019_paper.html)[[Workshop info]](https://pbdl2019.github.io/index.html)[[slides (2.3M PDF)]](http://winswang.github.io/files/ed-vfs-pbdl-slides.pdf)[[supp (7.4M)]](http://winswang.github.io/files/ED-VFS-supp.zip)[[code]](https://github.com/winswang/int-event-fusion/tree/win10)
+excerpt: <img src='/images/fef_overview.jpg' width='500'><br/>[[Paper]](http://openaccess.thecvf.com/content_ICCVW_2019/html/PBDL/Wang_Event-Driven_Video_Frame_Synthesis_ICCVW_2019_paper.html) [[slides, 2.3MB]](http://winswang.github.io/files/ed-vfs-pbdl-slides.pdf) [[supp, 7.4MB]](http://winswang.github.io/files/ED-VFS-supp.zip) [[code]](https://github.com/winswang/int-event-fusion/tree/win10)
 date: 2019-11-02
 venue: PBDL (ICCV Workshop)
 paperurl: 
