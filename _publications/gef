@@ -2,7 +2,7 @@
 title: "Joint filtering of intensity images and neuromorphic events<br/>for high-resolution noise-robust imaging"
 collection: refereed conference
 permalink:
-excerpt: <img src='/images/gef-teaser.jpg' width='500'><br/>[[3min video]](https://www.youtube.com/watch?v=JpJFBZ97KX0) [[Project page]](https://sites.google.com/view/guided-event-filtering) [[paper, 1.9MB]](https://winswang.github.io/files/cvpr2020-gef-compressed.pdf) [[supp, 2.1MB]](https://winswang.github.io/files/cvpr2020-gef-supp-compressed.pdf)
+excerpt: <img src='/images/gef-teaser.jpg' width='500'><br/>[[3min video]](https://www.youtube.com/watch?v=JpJFBZ97KX0) [[Project page]](https://sites.google.com/view/guided-event-filtering) [[paper, 1.9MB]](https://winswang.github.io/files/cvpr2020-gef-compressed.pdf) [[poster, 1.7MB]](https://winswang.github.io/files/gef-cvpr2020-poster-compressed.pdf)[[supp, 2.1MB]](https://winswang.github.io/files/cvpr2020-gef-supp-compressed.pdf)
 date: 2020-06-14
 venue: CVPR
 paperurl: 
