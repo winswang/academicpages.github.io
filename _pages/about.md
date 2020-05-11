@@ -10,18 +10,11 @@ redirect_from:
 
 Hi there,
 
-My name is Wang, Zi-Hao (王子豪) and I go by Winston. I'm from [Anshan](https://www.google.com/maps/place/Anshan,+Liaoning,+China/@41.1163422,122.866278,11z/data=!3m1!4b1!4m5!3m4!1s0x5e28b5d159b26c5d:0x7c815864a47d5bd9!8m2!3d41.108647!4d122.994329), northeastern China.
+My name is Wang, Zi-Hao (王子豪) and I go by Winston. I am a PhD student in Computer Science at Northwestern University, advised by [Ollie Cossairt](http://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/). My research interests include computer vision and machine learning.
 
-Currently
-======
-I am a PhD student (2015-present, qualified in 2018 Spring) in Computer Science at Northwestern University, advised by [Dr. Ollie Cossairt](http://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/). My research interests include computer vision and machine learning. 
+Previously I have interned at Apple, Microsoft Research, and [Light](http://www.light.co).
 
-In the past
-======
-I was an intern at Apple (Cupertino, CA, Jan-May 2019).
+I received my Bachelor's degree in Optics in 2015 at [Zhejiang University](http://www.zju.edu.cn/english/) with Honors from [Chu Ko-chen Honors College](https://en.wikipedia.org/wiki/Chu_Kochen_Honors_College,_Zhejiang_University). 
 
-I was a research intern at Microsoft Research (Redmond, WA, Jun-Aug 2018). 
+I was born in [Anshan](https://www.google.com/maps/place/Anshan,+Liaoning,+China/@41.1163422,122.866278,11z/data=!3m1!4b1!4m5!3m4!1s0x5e28b5d159b26c5d:0x7c815864a47d5bd9!8m2!3d41.108647!4d122.994329), northeastern China.
 
-I was a research intern in Computational Imaging team at [Light](http://www.light.co) (Mar-Aug 2017), working on camera calibration (geometric and color).
-
-I received my Bachelor's degree in Optics in 2015 at [Zhejiang University](http://www.zju.edu.cn/english/) with Honors from [Chu Ko-chen Honors College](https://en.wikipedia.org/wiki/Chu_Kochen_Honors_College,_Zhejiang_University). During my undergrad, I worked with [Dr. Ming Ronnier Luo](https://scholar.google.com.hk/citations?user=iQ17HxkAAAAJ&hl=en) in color science. We studied how human eyes respond to surface effects, i.e. gloss, glint/sparkle, graininess/coarseness.
