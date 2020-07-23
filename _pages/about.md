@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there,
 
-My name is Wang, Zi-Hao (王子豪) and I go by Winston. I am a PhD student in Computer Science at Northwestern University, advised by [Ollie Cossairt](http://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/). My research interests include computer vision and machine learning.
+My name is Wang, Zi-Hao (王子豪) and I go by Winston. I obtained my PhD in Computer Science at Northwestern University, advised by [Ollie Cossairt](http://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/). My research interests include computer vision and machine learning.
 
 Previously I have interned at Apple, Microsoft Research, and [Light](http://www.light.co).
 
