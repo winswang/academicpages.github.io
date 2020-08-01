@@ -3,7 +3,7 @@ title: "Dissertation: Synergy of physics and learning-based models in computatio
 collection: talks
 type: “oral presentation“
 permalink: 
-excerpt: <img src='/images/nu-logo.png'><br/>[[YouTube]](https://youtu.be/VEJxdNok-K0) [[slides, 5.8MB]](https://winswang.github.io/files/defense-07-23-2020-compressed.pdf)
+excerpt: <img src='/images/nu-logo.png'><br/>[[YouTube]](https://youtu.be/VEJxdNok-K0) [[slides, 5.8MB]](https://winswang.github.io/files/defense-07-23-2020-compressed.pdf) [[thesis, 8MB]](https://winswang.github.io/files/phd-thesis-compressed.pdf)
 venue: “Northwestern University”
 date: 2020-07-23
 location: “Evanston, IL”
