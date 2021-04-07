@@ -1,0 +1,14 @@
+---
+title: "EventZoom: learning to denoise and super resolve neuromorphic events"
+collection: refereed conference
+permalink:
+excerpt: <img src='/images/EventZoom_teaser.jpg' width='500'><br/> [[Project page]](https://sites.google.com/view/EventZoom) [[paper (PDF)]](http://ci.idm.pku.edu.cn/CVPR21a.pdf)
+date: 2021-06-19
+venue: CVPR (oral)
+paperurl: 
+citation: 
+---
+<img src='/images/EventZoom_teaser.jpg' width='700'><br/>
+Abstract: We address the problem of jointly denoising and super resolving neuromorphic events, a novel visual signal that represents thresholded temporal gradients in a space-time window. The challenge for event signal processing is that they are asynchronously generated, and do not carry absolute intensity but only binary signs informing temporal variations. To study event signal formation and degradation, we implement a display-camera system which enables multi-resolution event recording. We further propose EventZoom, a deep neural framework with a backbone architecture of 3D U-Net. EventZoom is trained in a noise-to-noise fashion where the two ends of the network are unfiltered noisy events, enforcing noise-free event restoration. For resolution enhancement, EventZoom incorporates an event-to-image module supervised by high resolution images. Our results showed that EventZoom achieves at least 40x temporal efficiency compared to state-of-the-art (SOTA) event denoisers. Additionally, we demonstrate that EventZoom enables performance improvements on applications including event-based visual object tracking and image reconstruction. EventZoom achieves SOTA super resolution image reconstruction results while being 10x faster.
+Citation: Peiqi Duan, Zihao W. Wang, Xinyu Zhou, Yi Ma, Boxin Shi, "EventZoom: Learning to Denoise and Super Resolve Neuromorphic Events," <i>the IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> Virtual, June (2021)
+
